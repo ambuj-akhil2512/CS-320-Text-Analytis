@@ -17,9 +17,9 @@ a. perform Named Entity Recognition and
 b. List all the locations present in the text.
 
 
-CS-320: Text Analytics
+CS-320: Text Analytics ,
 Elective
-Practical Assignment
+Practical Assignment ,
 Dr. Marisha 
 Assistant Professor 
 Banaras Hindu University Varanasi India
